@@ -1,6 +1,6 @@
 # Olá! 👋 Meu nome é Thiago
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, atualmente em transição para me tornar um **Desenvolvedor Full Stack**. Com paixão por programação e resolução de problemas, estou mergulhando no mundo do desenvolvimento web através do **Web Development Bootcamp** da App Brewery.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição para me tornar um **Desenvolvedor Full Stack**. Estou mergulhando no mundo do desenvolvimento web através do **Web Development Bootcamp** da App Brewery.
 
 ## Sobre Mim
 - 🌱 **Aprendendo**: Construindo aplicações web com JavaScript, HTML5, CSS3 e Git, enquanto exploro React, Node.js, Express, MongoDB e PostgreSQL.
