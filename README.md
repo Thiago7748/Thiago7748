@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Thiago Rodrigues
+# Olá! 👋 Meu nome é Thiago
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, atualmente em transição para me tornar um **Desenvolvedor Full Stack**. Com paixão por programação e resolução de problemas, estou mergulhando no mundo do desenvolvimento web através do **Web Development Bootcamp** da App Brewery.
 
