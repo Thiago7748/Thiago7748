@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em trans
 Estudando e me preparando para construir projetos full stack, como sites responsivos e APIs RESTful.
 
 ## Vamos Conectar!
-Estou aberto a colaborar em projetos, trocar ideias ou explorar oportunidades. Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/thiago-rodrigues-657703352/) ou e-mail tgr.20001@gmail.com. Vamos codificar juntos! 🚀
+Estou aberto a colaborar em projetos, trocar ideias ou explorar oportunidades. Sinta-se à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/thiago-rodrigues-657703352/) ou e-mail tgr.20001@gmail.com 🚀
 
 ---
 
