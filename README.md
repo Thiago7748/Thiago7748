@@ -28,5 +28,6 @@ Sou um profissional de tecnologia com **12 anos de trajetória digital** e **6 a
 
 * **LinkedIn:** [linkedin.com/in/thiagorodrigue-s](https://www.linkedin.com/in/thiagorodrigue-s)
 * **E-mail:** [tgr.20001@gmail.com](mailto:tgr.20001@gmail.com)
+* **WhatsApp:** 1191097-7399
 
 > "Uso a tecnologia para libertar o tempo humano para o que realmente importa: a estratégia."
